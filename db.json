@@ -1,0 +1,136 @@
+{
+  "cats": [
+    {
+      "name": "Trang chủ",
+      "slug": "trang-chu",
+      "createdAt": "17-1-2022",
+      "id": 1
+    },
+    {
+      "name": "Bài viết",
+      "slug": "bai-viet",
+      "createdAt": "17-1-2022",
+      "id": 2
+    },
+    {
+      "name": "Liên hệ",
+      "slug": "lien-he",
+      "createdAt": "17-1-2022",
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm",
+      "slug": "san-pham",
+      "createdAt": "17-1-2022",
+      "id": 4
+    }
+  ],
+  "user_login": [
+    {
+      "id": 1,
+      "username": "lephu_123",
+      "password": "123456789"
+    }
+  ],
+  "list_product": [
+    {
+      "code": "fdsfdsf",
+      "name": "dsfdsf",
+      "cat": "sfdsfds",
+      "slug": "fdsfds",
+      "desc": "fdsfdsfds",
+      "price": "fdsfdsfds",
+      "cat_id": "3",
+      "image": "",
+      "id": 1
+    },
+    {
+      "code": "gfdgfd",
+      "name": "gfdgfdg",
+      "cat": "fdgfdg",
+      "slug": "fdgfdg",
+      "desc": "fdgfdgfdg",
+      "price": "gfdgfdgfdg",
+      "cat_id": "4",
+      "image": "",
+      "id": 2
+    },
+    {
+      "code": "fdsfds",
+      "name": "fdsfdsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsfds",
+      "desc": "fdsfdsfdsf",
+      "price": "fdsfdsfdsfds",
+      "cat_id": "4",
+      "image": "",
+      "id": 3
+    },
+    {
+      "code": "fdsf",
+      "name": "dsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfdsfdsf",
+      "price": "dsfdsfdsf",
+      "cat_id": "4",
+      "image": "",
+      "id": 4
+    },
+    {
+      "code": "fdsf",
+      "name": "dsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfdsfdsf",
+      "price": "dsfdsfdsf",
+      "cat_id": "4",
+      "image": "",
+      "id": 5
+    },
+    {
+      "code": "fdsf",
+      "name": "dsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfdsfdsf",
+      "price": "dsfdsfdsf",
+      "cat_id": "4",
+      "image": "",
+      "id": 6
+    },
+    {
+      "code": "fdsf",
+      "name": "dsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfdsfdsf",
+      "price": "dsfdsfdsf",
+      "cat_id": "4",
+      "image": "",
+      "id": 7
+    },
+    {
+      "code": "fdsf",
+      "name": "dsfdsf",
+      "cat": "dsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfdsfdsf",
+      "price": "dsfdsfdsf",
+      "cat_id": "4",
+      "image": "",
+      "id": 8
+    },
+    {
+      "code": "fdsfdsf",
+      "name": "dsfdsfds",
+      "cat": "fdsfdsfds",
+      "slug": "fdsf",
+      "desc": "dsfsdfdsfdsf",
+      "price": "fdsfdsfds",
+      "cat_id": "3",
+      "image": "",
+      "id": 9
+    }
+  ]
+}
